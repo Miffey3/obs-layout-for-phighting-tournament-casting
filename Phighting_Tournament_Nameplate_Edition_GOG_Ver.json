@@ -1,6 +1,6 @@
 {
-    "current_scene": "In-Game Match",
-    "current_program_scene": "In-Game Match",
+    "current_scene": "Pre-Game",
+    "current_program_scene": "Pre-Game",
     "scene_order": [
         {
             "name": "Pre-Game"
@@ -11731,7 +11731,7 @@
                     "name": "Video_Quality_Reminder",
                     "group": false,
                     "pauseSaveBehavior": 0,
-                    "pause": true,
+                    "pause": false,
                     "parallel": true,
                     "checkConditionsInParallel": false,
                     "onChange": true,
@@ -20173,15 +20173,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 202
+                            "pos": 213
                         },
                         {
-                            "pos": 509
+                            "pos": 535
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 477
+                            "pos": 503
                         },
                         {
                             "pos": 0
@@ -20259,7 +20259,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20293,7 +20293,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20327,7 +20327,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20395,7 +20395,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20690,15 +20690,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -20776,7 +20776,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20810,7 +20810,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20844,7 +20844,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20912,7 +20912,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -21207,15 +21207,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 202
+                            "pos": 213
                         },
                         {
-                            "pos": 509
+                            "pos": 535
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 477
+                            "pos": 503
                         },
                         {
                             "pos": 0
@@ -21724,15 +21724,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -22241,15 +22241,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -23576,7 +23576,7 @@
             "settings": {
                 "": 0,
                 "undo_uuid": "63b9e984-e808-48f2-8e31-1a0c1b41e42c",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Shinsan_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/04 Joke Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -23704,7 +23704,7 @@
             "versioned_id": "image_source",
             "settings": {
                 "undo_uuid": "12e56343-4039-46f2-b347-bb5138a07c4b",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Soda_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/04 Joke Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -23831,7 +23831,7 @@
             "versioned_id": "image_source",
             "settings": {
                 "undo_uuid": "2049f398-f0dc-4e4c-a5bc-6a759d6b98ed",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/HowToProgram_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/04 Joke Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -23959,7 +23959,7 @@
             "versioned_id": "image_source",
             "settings": {
                 "undo_uuid": "7ff5a57e-819c-416b-807c-995009ceb676",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/15 Scythe/Reaper_Scythe_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Woahtah_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -24090,7 +24090,7 @@
             "versioned_id": "image_source",
             "settings": {
                 "undo_uuid": "ca2d43c4-390e-4d1b-883e-e8359148c4ad",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Espinyas_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/04 Joke Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -24221,7 +24221,6 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Shinsan",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -24230,7 +24229,8 @@
                 },
                 "outline_size": 5,
                 "outline_color": 4278190080,
-                "antialiasing": true
+                "antialiasing": true,
+                "text": "EpicNoodles"
             },
             "mixers": 0,
             "sync": 0,
@@ -24364,7 +24364,6 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Soda",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -24372,7 +24371,8 @@
                     "style": "Narrow Bold"
                 },
                 "outline_size": 5,
-                "outline_color": 4278190080
+                "outline_color": 4278190080,
+                "text": "Testin_O"
             },
             "mixers": 0,
             "sync": 0,
@@ -24506,7 +24506,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "howtoprogram",
+                "text": "Zombound",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -24646,7 +24646,6 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Maki",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -24654,7 +24653,8 @@
                     "style": "Narrow Bold"
                 },
                 "outline_size": 5,
-                "outline_color": 4278190080
+                "outline_color": 4278190080,
+                "text": "Woahtah"
             },
             "mixers": 0,
             "sync": 0,
@@ -24789,7 +24789,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Espinyas",
+                "text": "Zeltarez",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -24958,7 +24958,7 @@
                     "versioned_id": "color_filter_v2",
                     "settings": {
                         "color_multiply": 4294967295,
-                        "color_add": 4287724875
+                        "color_add": 4283879167
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -25334,7 +25334,7 @@
             "mixers": 193,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 0.0,
             "balance": 0.5,
             "enabled": true,
             "muted": false,
@@ -25396,7 +25396,7 @@
             "mixers": 196,
             "sync": 0,
             "flags": 0,
-            "volume": 0.89999997615814209,
+            "volume": 0.0,
             "balance": 0.5,
             "enabled": true,
             "muted": false,
@@ -25484,7 +25484,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 25,
+                "id_counter": 26,
                 "items": [
                     {
                         "name": "Microphone",
@@ -25655,7 +25655,7 @@
                         "name": "In-Game Chat",
                         "source_uuid": "a8002541-96de-4e73-ad2b-c9426a8b9bda",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
                             "x": 1920.0,
@@ -27613,7 +27613,7 @@
             "mixers": 193,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 0.0,
             "balance": 0.5,
             "enabled": true,
             "muted": true,
@@ -31288,8 +31288,8 @@
                         "brightness": 0.0,
                         "hue_shift": 0.0,
                         "opacity": 0.80000000000000004,
-                        "color_multiply": 4287724875,
-                        "color_add": 4285408018
+                        "color_multiply": 4283879167,
+                        "color_add": 4279703395
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -32749,7 +32749,7 @@
                         "source_uuid": "386cba94-5bf9-48c2-8cbe-ff810c9739d9",
                         "visible": true,
                         "locked": true,
-                        "rot": 9834928.0,
+                        "rot": 10018926.0,
                         "scale_ref": {
                             "x": 1920.0,
                             "y": 1080.0
@@ -33139,7 +33139,7 @@
                     "flags": 0,
                     "volume": 1.0,
                     "balance": 0.5,
-                    "enabled": true,
+                    "enabled": false,
                     "muted": false,
                     "push-to-mute": false,
                     "push-to-mute-delay": 0,
@@ -33199,7 +33199,7 @@
                     "flags": 0,
                     "volume": 1.0,
                     "balance": 0.5,
-                    "enabled": false,
+                    "enabled": true,
                     "muted": false,
                     "push-to-mute": false,
                     "push-to-mute-delay": 0,
@@ -33295,7 +33295,7 @@
                 "": 0,
                 "undo_suuid": "63b9e984-e808-48f2-8e31-1a0c1b41e42c",
                 "undo_uuid": "63b9e984-e808-48f2-8e31-1a0c1b41e42c",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/01 Default Nameplates/02 Range Nameplates/Hyperlaser_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Kynii_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33424,7 +33424,7 @@
             "settings": {
                 "undo_suuid": "12e56343-4039-46f2-b347-bb5138a07c4b",
                 "undo_uuid": "12e56343-4039-46f2-b347-bb5138a07c4b",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/25 Coil/Sharkbite_Coil_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Tinpot_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33552,7 +33552,7 @@
             "settings": {
                 "undo_suuid": "2049f398-f0dc-4e4c-a5bc-6a759d6b98ed",
                 "undo_uuid": "2049f398-f0dc-4e4c-a5bc-6a759d6b98ed",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/11 Rocket/Stargazer_Rocket_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Breadrole_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33681,7 +33681,7 @@
             "settings": {
                 "undo_suuid": "7ff5a57e-819c-416b-807c-995009ceb676",
                 "undo_uuid": "7ff5a57e-819c-416b-807c-995009ceb676",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Diven_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Aktiv_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33813,7 +33813,7 @@
             "settings": {
                 "undo_suuid": "ca2d43c4-390e-4d1b-883e-e8359148c4ad",
                 "undo_uuid": "ca2d43c4-390e-4d1b-883e-e8359148c4ad",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Masada_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Soral_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33944,7 +33944,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "DealingDamage",
+                "text": "Kynii",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34084,7 +34084,6 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Shobbl",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34092,7 +34091,8 @@
                     "style": "Narrow Bold"
                 },
                 "outline_size": 5,
-                "outline_color": 4278190080
+                "outline_color": 4278190080,
+                "text": "Tinpot"
             },
             "mixers": 0,
             "sync": 0,
@@ -34226,7 +34226,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "A_zerion.",
+                "text": "Breadrole",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34366,7 +34366,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Diven_Divs",
+                "text": "Aktiv",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34510,7 +34510,6 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Masada",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34518,7 +34517,8 @@
                     "style": "Narrow Bold"
                 },
                 "outline_size": 5,
-                "outline_color": 4278190080
+                "outline_color": 4278190080,
+                "text": "Soral"
             },
             "mixers": 0,
             "sync": 0,
@@ -34679,7 +34679,7 @@
                     "settings": {
                         "hue_shift": 0.0,
                         "color_multiply": 4294967295,
-                        "color_add": 4285408018
+                        "color_add": 4279703395
                     },
                     "mixers": 0,
                     "sync": 0,
