@@ -6654,7 +6654,7 @@
         }
     ],
     "saved_projectors": [],
-    "current_transition": "Fade",
+    "current_transition": "Stinger",
     "transition_duration": 1000,
     "preview_locked": false,
     "scaling_enabled": false,
@@ -7016,7 +7016,7 @@
                     "name": "Nameplate_Scene_Triggers",
                     "group": true,
                     "groupData": {
-                        "collapsed": true,
+                        "collapsed": false,
                         "size": 4
                     }
                 },
@@ -7172,15 +7172,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 212
+                            "pos": 119
                         },
                         {
-                            "pos": 499
+                            "pos": 280
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 467
+                            "pos": 248
                         },
                         {
                             "pos": 0
@@ -7873,41 +7873,6 @@
                                 "version": 1
                             },
                             "version": 1
-                        },
-                        {
-                            "segmentSettings": {
-                                "collapsed": false,
-                                "useCustomLabel": false,
-                                "customLabel": "My label",
-                                "enabled": true,
-                                "version": 1
-                            },
-                            "id": "scene",
-                            "logic": 101,
-                            "durationModifier": {
-                                "time_constraint": 0,
-                                "seconds": {
-                                    "value": {
-                                        "value": 0.0,
-                                        "type": 0
-                                    },
-                                    "unit": 0,
-                                    "version": 1
-                                }
-                            },
-                            "sceneSelection": {
-                                "type": 0,
-                                "name": "Nameplate Intro"
-                            },
-                            "type": 10,
-                            "pattern": ".*Scene.*",
-                            "useTransitionTargetScene": false,
-                            "regexConfig": {
-                                "enable": true,
-                                "partial": false,
-                                "options": 0
-                            },
-                            "version": 1
                         }
                     ],
                     "actions": [
@@ -7946,7 +7911,7 @@
                                 "version": 1
                             },
                             "id": "media",
-                            "action": 1,
+                            "action": 2,
                             "selectionType": 0,
                             "duration": {
                                 "value": {
@@ -11731,7 +11696,7 @@
                     "name": "Video_Quality_Reminder",
                     "group": false,
                     "pauseSaveBehavior": 0,
-                    "pause": true,
+                    "pause": false,
                     "parallel": true,
                     "checkConditionsInParallel": false,
                     "onChange": true,
@@ -20173,15 +20138,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 202
+                            "pos": 213
                         },
                         {
-                            "pos": 509
+                            "pos": 535
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 477
+                            "pos": 503
                         },
                         {
                             "pos": 0
@@ -20259,7 +20224,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20293,7 +20258,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20327,7 +20292,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20395,7 +20360,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20690,15 +20655,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -20776,7 +20741,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Banhammer_EpicNoodles_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20810,7 +20775,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Skateboard_Testin_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20844,7 +20809,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Boombox_Zombound_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -20912,7 +20877,7 @@
                                 "id": "file",
                                 "description": "Image File (Path)"
                             },
-                            "manualSettingValue": "${File Directory}/Resources/03 Custom Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
+                            "manualSettingValue": "${File Directory}/Resources/04 Joke Nameplates/The Loose Cannons/Scythe_Zeltarez_Nameplate.png",
                             "tempVar": {
                                 "type": 0,
                                 "idx": -1,
@@ -21207,15 +21172,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 202
+                            "pos": 213
                         },
                         {
-                            "pos": 509
+                            "pos": 535
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 477
+                            "pos": 503
                         },
                         {
                             "pos": 0
@@ -21724,15 +21689,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -22241,15 +22206,15 @@
                     },
                     "macroActionConditionSplitterPosition": [
                         {
-                            "pos": 201
+                            "pos": 211
                         },
                         {
-                            "pos": 510
+                            "pos": 537
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 478
+                            "pos": 505
                         },
                         {
                             "pos": 0
@@ -23515,12 +23480,12 @@
             "versioned_id": "wasapi_process_output_capture",
             "settings": {
                 "undo_suuid": "52893d29-065c-4d3b-9ec7-946d09d8fb9e",
-                "window": "(58) 【BOF#3AET】saaa + kei_iwata + stuv + わかどり - New York Back Raise【BGA】 - YouTube - Google Chrome:Chrome_WidgetWin_1:chrome.exe"
+                "window": "(69) 【BOF#3ANT】 アドバンス・シグナル / みーに feat. はらもりよしな 【PSYCORE】 - YouTube - Google Chrome:Chrome_WidgetWin_1:chrome.exe"
             },
             "mixers": 194,
             "sync": 0,
             "flags": 0,
-            "volume": 0.69999998807907104,
+            "volume": 0.5,
             "balance": 0.5,
             "enabled": true,
             "muted": false,
@@ -25334,7 +25299,7 @@
             "mixers": 193,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 0.0,
             "balance": 0.5,
             "enabled": true,
             "muted": false,
@@ -25484,7 +25449,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 25,
+                "id_counter": 26,
                 "items": [
                     {
                         "name": "Microphone",
@@ -25655,7 +25620,7 @@
                         "name": "In-Game Chat",
                         "source_uuid": "a8002541-96de-4e73-ad2b-c9426a8b9bda",
                         "visible": true,
-                        "locked": true,
+                        "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
                             "x": 1920.0,
@@ -27501,7 +27466,7 @@
             "settings": {
                 "local_file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/Textures/Phighting Intro.wav",
                 "close_when_inactive": true,
-                "restart_on_activate": true
+                "restart_on_activate": false
             },
             "mixers": 194,
             "sync": 0,
@@ -27613,7 +27578,7 @@
             "mixers": 193,
             "sync": 0,
             "flags": 0,
-            "volume": 1.0,
+            "volume": 0.0,
             "balance": 0.5,
             "enabled": true,
             "muted": true,
@@ -27930,8 +27895,8 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "color-preset": 8,
-                            "color": ""
+                            "color": "",
+                            "color-preset": 8
                         }
                     },
                     {
@@ -29712,7 +29677,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false,
+                            "collapsed": true,
                             "color": "",
                             "color-preset": 2
                         }
@@ -31289,7 +31254,7 @@
                         "hue_shift": 0.0,
                         "opacity": 0.80000000000000004,
                         "color_multiply": 4287724875,
-                        "color_add": 4285408018
+                        "color_add": 4287456745
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -32749,7 +32714,7 @@
                         "source_uuid": "386cba94-5bf9-48c2-8cbe-ff810c9739d9",
                         "visible": true,
                         "locked": true,
-                        "rot": 9834928.0,
+                        "rot": 10570281.0,
                         "scale_ref": {
                             "x": 1920.0,
                             "y": 1080.0
@@ -33295,7 +33260,7 @@
                 "": 0,
                 "undo_suuid": "63b9e984-e808-48f2-8e31-1a0c1b41e42c",
                 "undo_uuid": "63b9e984-e808-48f2-8e31-1a0c1b41e42c",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/01 Default Nameplates/02 Range Nameplates/Hyperlaser_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Hoji_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33424,7 +33389,7 @@
             "settings": {
                 "undo_suuid": "12e56343-4039-46f2-b347-bb5138a07c4b",
                 "undo_uuid": "12e56343-4039-46f2-b347-bb5138a07c4b",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/25 Coil/Sharkbite_Coil_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Monz_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33552,7 +33517,7 @@
             "settings": {
                 "undo_suuid": "2049f398-f0dc-4e4c-a5bc-6a759d6b98ed",
                 "undo_uuid": "2049f398-f0dc-4e4c-a5bc-6a759d6b98ed",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/11 Rocket/Stargazer_Rocket_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/02 Skateboard/Surfboard_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33681,7 +33646,7 @@
             "settings": {
                 "undo_suuid": "7ff5a57e-819c-416b-807c-995009ceb676",
                 "undo_uuid": "7ff5a57e-819c-416b-807c-995009ceb676",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Diven_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/01 Default Nameplates/02 Range Nameplates/Slingshot_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33813,7 +33778,7 @@
             "settings": {
                 "undo_suuid": "ca2d43c4-390e-4d1b-883e-e8359148c4ad",
                 "undo_uuid": "ca2d43c4-390e-4d1b-883e-e8359148c4ad",
-                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/03 Custom Nameplates/Masada_Nameplate.png"
+                "file": "C:/Users/user/Desktop/OBS PHIGHTING LAYOUT/Resources/02 Skin Nameplates/21 Medkit/Bivekit_Nameplate.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -33944,7 +33909,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "DealingDamage",
+                "text": "Hoji",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34084,7 +34049,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Shobbl",
+                "text": "Monz",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34226,7 +34191,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "A_zerion.",
+                "text": "Lem",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34366,7 +34331,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Diven_Divs",
+                "text": "Fairy",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34510,7 +34475,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "outline": true,
-                "text": "Masada",
+                "text": "Como",
                 "font": {
                     "face": "Arial",
                     "flags": 1,
@@ -34679,7 +34644,7 @@
                     "settings": {
                         "hue_shift": 0.0,
                         "color_multiply": 4294967295,
-                        "color_add": 4285408018
+                        "color_add": 4287456745
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -34809,7 +34774,7 @@
                 "read_from_file": false,
                 "undo_uuid": "60767a6c-5eef-4f96-976d-69de41c868d5",
                 "undo_suuid": "60767a6c-5eef-4f96-976d-69de41c868d5",
-                "text": "LT5 LAGGERS",
+                "text": "LOTUS EATERS",
                 "font": {
                     "face": "Segoe UI",
                     "style": "Black",
